@@ -30,6 +30,6 @@
 - SQL is more than just a querying language—it’s a tool for uncovering **hidden stories in data**.
 - Whether tracking progress, optimizing engagement, or identifying improvement areas, SQL transforms raw data into actionable insights.
   
-- **Let’s connect!** If you're passionate about data, feel free to collaborate or discuss new projects!
+- **Let’s connect!** If you're passionate about data, feel free to collaborate or discuss new projects!🚀
 - [**Personal Portfolio**](https://icy-sneeze-7c2.notion.site/Mentor-User-Performance-Analysis-SQL-1bf9b5784206802d813fd16e06bc7ac2?pvs=4)
-- [**LinkedIn**](https://www.linkedin.com/in/sonygaud31) 🚀
+- [**LinkedIn**](https://www.linkedin.com/in/sonygaud31) 
